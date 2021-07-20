@@ -1,5 +1,4 @@
-# Welcome To offical github of our club
-https:www.roboclubrtu.com
+# Welcome To offical github of our club [Robotics Club RTU](https://roboclubrtu.com/)
 -----------------------------------------
 Kindly show your participation and upload as much as you can in the respective repositories, we can also create different teams if the people are interested.
 ------------------------------------------------------------------------------------------------------------------------------
